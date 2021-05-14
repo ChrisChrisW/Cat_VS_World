@@ -10,5 +10,5 @@ Prendre le zip et extraire les fichiers. Ensuite pour commencer à jouer cliquer
 
 ## Dans le jeu
 Vous débutez sur l'atelier où vous pouvez customiser votre chat de combat.
-Quand vous aurez fini, vous pouvez aller en phase de combat en cliquant à l'aide d'un objet le button vers sur votre gauche.
-Vous êtes devant votre adversaire. Afin de l'anéantir cliquer soi sur **"Espace"** soit sur le button à votre droite
+Quand vous aurez fini, vous pouvez aller en phase de combat en cliquant à l'aide d'un objet le button vers votre gauche.
+Vous êtes devant votre adversaire. Afin de l'anéantir cliquer soit sur **"Espace"** soit sur le button à votre droite
